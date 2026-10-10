@@ -32,3 +32,4 @@ The final board also includes a custom Saturn-inspired graphic and LUNARIS-01 br
 ## Status
 
 Week 1 PCB design complete. 🚀
+<img width="822" height="693" alt="Complete PCB" src="https://github.com/user-attachments/assets/54362642-2e38-42b6-9d82-ad8f07fbe7d7" />
