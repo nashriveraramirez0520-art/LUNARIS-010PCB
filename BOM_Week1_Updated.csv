@@ -1,0 +1,9 @@
+﻿Part,Description,Quantity,Unit Price (USD),Total (USD),Vendor
+Seeed Studio XIAO ESP32-C3,Main microcontroller for Starbie (NOVA),1,7.93,7.93,AliExpress
+DHT11 Temperature & Humidity Sensor,Measures temperature and humidity for Starbie (NOVA),1,2.85,2.85,AliExpress
+MPU6050 GY-521,"Detects tilt, movement and shaking for Starbie (NOVA)",1,2.10,2.10,AliExpress
+Cherry Petal MX PCB Mount Switch,Two buttons to control Starbie (NOVA),1,1.47,1.47,AliExpress
+10KΩ 1% Metal Film 1/4W Resistor,Pull-up resistor for DHT11 data signal,1,1.35,1.35,AliExpress
+LUNARIS-01 Custom PCB,Manufactured PCB for the Starbie electronics,1,4.00,4.00,JLCPCB
+Tax & shipping,Estimated tax and shipping for the whole order,,13.00,13.00,AliExpress / JLCPCB
+TOTAL,,,,32.70,
