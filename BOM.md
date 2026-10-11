@@ -16,7 +16,7 @@
 | [Aosong DHT11 Temperature & Humidity Sensor](https://www.lcsc.com/product-detail/Humidity-Moisture-Sensors_DHT11-Sensors_C117051.html?) | Measures Temperature and humidity for starbie (NOVA) | 1 | $1.46 | $1.46 | [LCSC](https://www.lcsc.com/product-detail/Humidity-Moisture-Sensors_DHT11-Sensors_C117051.html?) |
 | [0.96" OLED Display 128x64 SSD1306](https://www.addicore.com/products/oled-display-128x64-0-96in-monochrome?variant=45759520309565) | Displays starbie (NOVA), animations and menus | 1 | $6.50 | $6.50 | [Addicore](https://www.addicore.com/products/oled-display-128x64-0-96in-monochrome?variant=45759520309565) |
 | **Parts subtotal** | — | — | — | **$12.95** | — |
-| **Tax & shipping** | — | — | — | **$1.00** | — |
-| **Total** | — | — | — | **$13.95** | — |
+| **Tax & shipping** | — | — | — | **$0.00** | — |
+| **Total** | — | — | — | **$12.95** | — |
 
-$16.05 left of the tier's funding.
+$17.05 left of the tier's funding.
