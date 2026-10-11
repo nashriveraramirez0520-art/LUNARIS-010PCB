@@ -19,7 +19,7 @@
 | [10KΩ 1% Metal Film 1/4W Resistor](https://www.aliexpress.us/item/2251832129615028.html?spm=a2g0o.cart.0.0.434138daqJrlVO&mp=1&pdp_npi=6%40dis%21USD%21USD+1.35%21USD+1.35%21%21USD+1.35%21%21%21%402101c28d17917581608092190e0f87%2158256489987%21ct%21US%217211921821%21%211%210%21&_gl=1*4vtbq1*_gcl_au*NzUxMjIwOTEuMTc5MTc1NjQzNQ..*_ga*ODQyNjYwNDA0LjE3OTE3NTY3MTE.*_ga_VED1YSGNC7*czE3OTE3NTY3MTAkbzEkZzEkdDE3OTE3NTg1OTckajU5JGwwJGgw&gatewayAdapt=glo2usa) | Pull-up resistor for DHT11 data signal | 1 | $1.35 | $1.35 | [AliExpress](https://www.aliexpress.us/item/2251832129615028.html?spm=a2g0o.cart.0.0.434138daqJrlVO&mp=1&pdp_npi=6%40dis%21USD%21USD+1.35%21USD+1.35%21%21USD+1.35%21%21%21%402101c28d17917581608092190e0f87%2158256489987%21ct%21US%217211921821%21%211%210%21&_gl=1*4vtbq1*_gcl_au*NzUxMjIwOTEuMTc5MTc1NjQzNQ..*_ga*ODQyNjYwNDA0LjE3OTE3NTY3MTE.*_ga_VED1YSGNC7*czE3OTE3NTY3MTAkbzEkZzEkdDE3OTE3NTg1OTckajU5JGwwJGgw&gatewayAdapt=glo2usa) |
 | [LUNARIS-01 Custom PCB](https://trade.jlcpcb.com/checkout/payMethod/?unionSettleId=66ba5dae45fc4703b41b8ded63252cbb&systemType=order_pcb&orderTypes=order_pcb&calType=PRE_CAL&couponDemo=1&spm=Jlcpcb.Partcart.1002) | Manufactured PCB for the Starbie electronics | 1 | $4.00 | $4.00 | [JLCPCB](https://trade.jlcpcb.com/checkout/payMethod/?unionSettleId=66ba5dae45fc4703b41b8ded63252cbb&systemType=order_pcb&orderTypes=order_pcb&calType=PRE_CAL&couponDemo=1&spm=Jlcpcb.Partcart.1002) |
 | **Parts subtotal** | — | — | — | **$19.70** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$19.70** | — |
+| **Tax & shipping** | — | — | — | **$14.29** | — |
+| **Total** | — | — | — | **$33.99** | — |
 
-$10.30 left of the tier's funding.
+**$3.99 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
